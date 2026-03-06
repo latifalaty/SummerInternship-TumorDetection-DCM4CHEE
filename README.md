@@ -14,6 +14,8 @@ OpenCV & NumPy – traitement d’images médicales
 
 DICOM / dcm4chee-arc-light – gestion et accès aux données médicales
 
+Docker :accés à DICOM
+
 Git & Git Submodules – intégration du serveur DICOM dans le projet
 
 📁 Structure du projet
@@ -63,6 +65,8 @@ TensorFlow / Keras – deep learning model training and inference
 OpenCV & NumPy – image preprocessing and manipulation
 
 DICOM / dcm4chee-arc-light – medical image management
+
+Docker :access to DICOM
 
 Git & Git Submodules – project organization
 
