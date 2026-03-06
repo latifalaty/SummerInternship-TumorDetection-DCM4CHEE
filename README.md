@@ -17,6 +17,7 @@ DICOM / dcm4chee-arc-light – gestion et accès aux données médicales
 Docker :accés à DICOM
 
 Git & Git Submodules – intégration du serveur DICOM dans le projet
+Linux :l'envirenement de developpement 
 
 📁 Structure du projet
 StageEtedcm4cheeIAtumeursdetectors/
@@ -69,6 +70,7 @@ DICOM / dcm4chee-arc-light – medical image management
 Docker :access to DICOM
 
 Git & Git Submodules – project organization
+Linux : environement of developpement 
 
 Project Structure:
 
