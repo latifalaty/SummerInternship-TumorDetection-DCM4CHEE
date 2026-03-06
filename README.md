@@ -46,3 +46,49 @@ Compétences renforcées en Python, Jupyter Notebook, et gestion de projets avec
 🔗 Informations supplémentaires
 
 Projet réalisé dans le cadre d’un stage d’été de 2 mois.
+******************************************************************************************************************************************************************
+
+Project: Development of an AI system for automatic tumor detection in medical images (DICOM format).
+Duration: 2-month summer internship
+
+Description:
+This project combines Deep Learning and medical image processing. The goal was to create a pipeline capable of detecting tumors automatically using Python, Jupyter Notebooks, and a DICOM server (dcm4chee-arc-light).
+
+Technologies & Skills:
+
+Python & Jupyter Notebook – data analysis and modeling
+
+TensorFlow / Keras – deep learning model training and inference
+
+OpenCV & NumPy – image preprocessing and manipulation
+
+DICOM / dcm4chee-arc-light – medical image management
+
+Git & Git Submodules – project organization
+
+Project Structure:
+
+StageEtedcm4cheeIAtumeursdetectors/
+│
+├── .gitignore                     # Ignored files and folders
+├── .gitmodules                     # Submodule for dcm4chee-arc-light
+├── Dectection tumeurs.ipynb        # Main tumor detection notebook
+├── detectiontest.ipynb             # Notebook for tests and experiments
+├── dcm4chee-arc-light/             # DICOM server submodule
+└── README.md                       # Project documentation
+
+Achievements:
+
+Developed a complete pipeline for automatic tumor detection in DICOM images
+
+Integrated the dcm4chee-arc-light server for data access and management
+
+Created and tested deep learning models for tumor identification
+
+Validated the results on real medical datasets
+
+Learning Outcomes:
+
+Practical experience with medical image processing and DICOM data
+
+Strengthened skills in Deep Learning applied to healthcare
